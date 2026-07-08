@@ -671,6 +671,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
     </tr>
+				<tr>
+    <td>
+        <a href="https://www.truepositive.app/">TruePositive</a>
+    </td>
+    <td>
+        TruePositive provides community ground-truth verdicts on CVEs — whether a finding is real, exploitable, or a false positive — with real-world severity vs the CVSS score, exploit availability, and remediation that worked. Built on NVD, CISA KEV and FIRST EPSS, with a free public API and an embeddable badge.
+    </td>
+</tr>
     <tr>
         <td>
             <a href="https://portal.underattack.today/" target="_blank">UnderAttack.today</a>
